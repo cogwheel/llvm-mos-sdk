@@ -36,7 +36,3 @@ add_platform_library(nes-c
 )
 install(FILES rompoke/rompoke.h TYPE INCLUDE)
 target_link_libraries(nes-c PRIVATE common-asminc)
-
-add_subdirectory(famitone2)
-add_subdirectory(nesdoug)
-add_subdirectory(neslib)

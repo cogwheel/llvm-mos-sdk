@@ -1,1 +1,0 @@
-.zeropage NTSC_MODE
